@@ -121,14 +121,12 @@ export TERM=xterm-256color
 export LD_LIBRARY_PATH=/home/pratik/Install/lib:/home/pratik/Install/lib/vtk-5.9
 export TEXINPUTS=$HOME/Softwares/TeX/prosper/:$TEXINPUTS
 export PETSC_DIR=/usr/lib/petscdir/3.1
-export SVNCOURSE=https://subversion.ews.illinois.edu/svn/sp12-cs555
 export LAPACK=/home/pratik/Install/lib/liblapack.a
 export BLAS=/home/pratik/Install/lib/libf77blas.a
 export ATLAS=/home/pratik/Install/lib/libatlas.a
 export PYTHONPATH=/home/pratik/Install/lib/python2.6/site-packages:/home/pratik/Install/lib/python2.6/dist-packages/ufc/:/usr/lib/python2.6/dist-packages/cvxopt/
 export PATH=$HOME/Install/bin:$PATH
 
-source /home/pratik/Install/share/dolfin/dolfin.conf
 xset b 0
 # MATLAB License file
 export LM_LICENSE_FILE=/home/pratik/Source/MATLAB/license.dat
